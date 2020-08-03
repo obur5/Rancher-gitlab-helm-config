@@ -10,7 +10,7 @@ Few day's ago I started to install GitLab in my Rancher cluster, I didn't found 
 Rancher -> Resources -> Secrets -> Add Secret
  Name: cloudflare-api-token-secret
  Key:  api-token
- Value: <API Token From Clouflare account (global)> 
+ Value: <API Token From Cloudflare account (global)> 
 ```
 
 ### 2) Create ClusterIssuer
