@@ -1,4 +1,4 @@
-# Rancher + Gitlab(helm) + Let's Encrypt  + Clouflare
+# Rancher + Gitlab(helm) + Let's Encrypt  + Cloudflare
 
 Few day's ago I started to install GitLab in my Rancher cluster, I didn't found guides how to install, so I decided to write by my own
 
